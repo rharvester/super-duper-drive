@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3ef5cdf-b78e-4d3a-ad04-7c2cae741b74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tDbrUPozuUtSffYfS6fk4OkZKZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.CloudStorageApplicationTests (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudstorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jwdnd.course1.cloudstorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jwdnd.course1.cloudstorage" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests" />
+      <option name="METHOD_NAME" value="testNoteModificationAndDisplay" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudstorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jwdnd.course1.cloudstorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jwdnd.course1.cloudstorage" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplicationTests.testNoteCreationAndDisplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudstorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jwdnd.course1.cloudstorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jwdnd.course1.cloudstorage" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests" />
+      <option name="METHOD_NAME" value="testNoteCreationAndDisplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplicationTests.testNoteDeletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudstorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jwdnd.course1.cloudstorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jwdnd.course1.cloudstorage" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests" />
+      <option name="METHOD_NAME" value="testNoteDeletion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplicationTests.testNoteModificationAndDisplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudstorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jwdnd.course1.cloudstorage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jwdnd.course1.cloudstorage" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplicationTests" />
+      <option name="METHOD_NAME" value="testNoteModificationAndDisplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudStorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudstorage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CloudStorageApplicationTests (1)" />
+        <item itemvalue="JUnit.CloudStorageApplicationTests.testNoteModificationAndDisplay" />
+        <item itemvalue="JUnit.CloudStorageApplicationTests" />
+        <item itemvalue="JUnit.CloudStorageApplicationTests.testNoteDeletion" />
+        <item itemvalue="JUnit.CloudStorageApplicationTests.testNoteCreationAndDisplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3ef5cdf-b78e-4d3a-ad04-7c2cae741b74" name="Default Changelist" comment="" />
+      <created>1622306809304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622306809304</updated>
+      <workItem from="1622306812669" duration="3491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
